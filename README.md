@@ -2,6 +2,14 @@
 
 This project explores a real-world medical dataset to understand the factors that contribute to missed appointments. By analyzing various patient and appointment-related features, we aim to uncover actionable insights that could help healthcare providers reduce no-show rates and improve patient attendance.
 
+## 📚 Table of Contents
+
+- [Project Objective](#-project-objective)
+- [Dataset Overview](#-dataset-overview)
+- [Analysis Focus](#-analysis-focus)
+- [Key Findings](#-key-findings)
+- [How to Use](#-how-to-use)
+
 ---
 
 ## 🧠 Project Objective
@@ -70,10 +78,3 @@ We perform exploratory data analysis (EDA) to examine:
    ```bash
    pip install pandas matplotlib seaborn
    ```
-
----
-
-## 📌 Conclusion
-
-This project provides a data-driven approach to understanding patient behavior and offers insights that could help healthcare institutions design better communication and scheduling systems to reduce no-shows.
-
